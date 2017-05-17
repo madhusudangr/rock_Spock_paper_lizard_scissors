@@ -1,7 +1,4 @@
 import random
-# Rock-paper-scissors-lizard-Spock template
-
-
 # The key idea of this program is to play the big bang theory version of the iconic Rock Paper scissors with computer as the second player
 
 def name_to_number(name):
